@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/c/Users/dasan/Documents/HDSP/python_script_parallel/process.py", line 11, in <module>
+    raise Exception("Test error file")
+Exception: Test error file
